@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212127</color>
+    <color name="colorPrimaryDark">#C23D70</color>
+    <color name="colorAccent">#F26798</color>
+
+    <color name="drawColor">#212127</color>
+
+    <color name="place_holder_bg">#33000000</color>
+</resources>
